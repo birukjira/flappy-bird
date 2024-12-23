@@ -21,7 +21,6 @@
 ## Learning Objectives
 
 - Understanding the basics of the Kaboom library and game development
-- Practicing DOM manipulation techniques in JavaScript
 - Enhancing problem-solving skills through interactive game development
 
 ## How to Play
